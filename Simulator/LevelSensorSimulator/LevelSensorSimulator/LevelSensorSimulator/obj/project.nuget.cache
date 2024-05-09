@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0wSntfGhOe8Kb+omOBz2mmsaNXFG3jIuGPStOylIT0TjlVKQpueCPXHjHeKB2FD7vOKPPmPX3gtNWs45wEruBA==",
+  "dgSpecHash": "485JLIC4m1bt+DhrVnkxOSm+/FCn7FxC1brkocyfN3Bv8D5g70uZ0ZcEmQ9EccZn/6oSFX3M3ojz8kJM64ER9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj",
+  "projectFilePath": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\thesis-DigitalTwinasAttackDeception\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ojusvire\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ojusvire\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",

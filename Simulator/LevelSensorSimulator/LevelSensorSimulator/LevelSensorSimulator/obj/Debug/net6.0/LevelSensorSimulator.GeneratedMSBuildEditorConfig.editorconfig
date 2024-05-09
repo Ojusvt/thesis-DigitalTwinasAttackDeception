@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LevelSensorSimulator
-build_property.ProjectDir = C:\Users\ojusvire\Downloads\Ojus\Implementation\ThesisImplementation\Simulator\LevelSensorSimulator\LevelSensorSimulator\LevelSensorSimulator\
+build_property.ProjectDir = C:\Users\ojusvire\Downloads\Ojus\Implementation\ThesisImplementation\thesis-DigitalTwinasAttackDeception\Simulator\LevelSensorSimulator\LevelSensorSimulator\LevelSensorSimulator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

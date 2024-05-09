@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj": {}
+    "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\thesis-DigitalTwinasAttackDeception\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj": {
+    "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\thesis-DigitalTwinasAttackDeception\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\thesis-DigitalTwinasAttackDeception\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj",
         "projectName": "LevelSensorSimulator",
-        "projectPath": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj",
+        "projectPath": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\thesis-DigitalTwinasAttackDeception\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator.csproj",
         "packagesPath": "C:\\Users\\ojusvire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\obj\\",
+        "outputPath": "C:\\Users\\ojusvire\\Downloads\\Ojus\\Implementation\\ThesisImplementation\\thesis-DigitalTwinasAttackDeception\\Simulator\\LevelSensorSimulator\\LevelSensorSimulator\\LevelSensorSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ojusvire\\AppData\\Roaming\\NuGet\\NuGet.Config",
